@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListFragmentSample</string>
+
+    <string-array name="gunler">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+
+</resources>
